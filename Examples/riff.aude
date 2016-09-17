@@ -1219,7 +1219,7 @@
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
               "Start": 103,
               "Duration": 1,
-              "Pitch": 61
+              "Pitch": 57
             },
             {
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
@@ -1237,7 +1237,7 @@
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
               "Start": 109,
               "Duration": 1,
-              "Pitch": 61
+              "Pitch": 54
             },
             {
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
@@ -1261,7 +1261,7 @@
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
               "Start": 117,
               "Duration": 1,
-              "Pitch": 61
+              "Pitch": 54
             },
             {
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
@@ -1285,7 +1285,7 @@
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
               "Start": 125,
               "Duration": 1,
-              "Pitch": 61
+              "Pitch": 54
             },
             {
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
@@ -1297,7 +1297,7 @@
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
               "Start": 128,
               "Duration": 1,
-              "Pitch": 61
+              "Pitch": 54
             },
             {
               "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
@@ -1525,7 +1525,7 @@
                         "$values": [
                           {
                             "$type": "Aude.CoreNodeLibrary.SquarewaveNode, Aude.CoreNodeLibrary",
-                            "Amplitude": 0.5,
+                            "Amplitude": 0.25,
                             "Harmonic": 0,
                             "Children": {
                               "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
