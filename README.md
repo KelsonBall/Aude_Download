@@ -15,7 +15,7 @@ repository and either add a new issue or comment on an existing similar one.
 # Downloading and Running
 
 ## Select your desired build
-To the far left of the green `Clone of Download` button above is a `Branch: master` drop down menu. Use the drop down to select your desired branch. 
+To the far left of the green `Clone or Download` button above is a `Branch: master` drop down menu. Use the drop down to select your desired branch. 
 
   * `Master` - The most stable available version of Aude
   
