@@ -1,0 +1,1668 @@
+{
+  "$type": "Aude.Framework.Models.Implementations.Project, Aude.Framework",
+  "Tracks": {
+    "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.ITrack, Aude.Framework]], mscorlib",
+    "$values": [
+      {
+        "$type": "Aude.Framework.Models.Implementations.Track, Aude.Framework",
+        "Id": "33b8a76a-70b5-4897-bcc6-bc9693c2059c",
+        "Notes": {
+          "$type": "System.Collections.Generic.HashSet`1[[Aude.Framework.Models.Interfaces.INote, Aude.Framework]], System.Core",
+          "$values": [
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 0,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 5,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 7,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 8,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 13,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 15,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 21,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 23,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 16,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 24,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 29,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 0,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 0,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 0,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 2,
+              "Duration": 2,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 2,
+              "Duration": 2,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 2,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 8,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 8,
+              "Duration": 1,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 8,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 10,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 10,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 16,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 16,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 18,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 18,
+              "Duration": 2,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 24,
+              "Duration": 1,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 24,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 26,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 26,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 31,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 32,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 37,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 39,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 32,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 32,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 34,
+              "Duration": 2,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 34,
+              "Duration": 2,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 34,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 40,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 48,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 56,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 64,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 45,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 47,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 53,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 55,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 61,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 63,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 69,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 71,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 40,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 48,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 56,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 42,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 50,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 58,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 42,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 50,
+              "Duration": 2,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 58,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 40,
+              "Duration": 1,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 40,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 48,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 56,
+              "Duration": 1,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 32,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 40,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 42,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 34,
+              "Duration": 6,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 48,
+              "Duration": 1,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 50,
+              "Duration": 6,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 56,
+              "Duration": 1,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 58,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 72,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 80,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 88,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 96,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 104,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 112,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 120,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 128,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 64,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 64,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 64,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 72,
+              "Duration": 1,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 80,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 77,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 79,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 85,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 87,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 93,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 95,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 101,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 103,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 109,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 111,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 117,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 119,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 125,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 127,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 133,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 135,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 66,
+              "Duration": 2,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 66,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 72,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 80,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 88,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 96,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 104,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 112,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 74,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 82,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 90,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 98,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 106,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 114,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 66,
+              "Duration": 2,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 88,
+              "Duration": 1,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 72,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 74,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 82,
+              "Duration": 2,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 90,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 96,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 98,
+              "Duration": 2,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 98,
+              "Duration": 2,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 64,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 72,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 80,
+              "Duration": 1,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 88,
+              "Duration": 1,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 96,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 66,
+              "Duration": 6,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 74,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 82,
+              "Duration": 6,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 90,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 104,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 112,
+              "Duration": 1,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 120,
+              "Duration": 1,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 120,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 128,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 136,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 141,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 143,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 149,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 151,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 157,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 159,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 165,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 167,
+              "Duration": 1,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 136,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 144,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 152,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 160,
+              "Duration": 5,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 122,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 130,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 138,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 146,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 154,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 162,
+              "Duration": 2,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 160,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 152,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 144,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 128,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 136,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 98,
+              "Duration": 6,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 106,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 114,
+              "Duration": 6,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 122,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 130,
+              "Duration": 6,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 138,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 104,
+              "Duration": 1,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 104,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 106,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 112,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 114,
+              "Duration": 2,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 120,
+              "Duration": 1,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 122,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 128,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 130,
+              "Duration": 2,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 130,
+              "Duration": 2,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 136,
+              "Duration": 1,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 138,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 144,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 146,
+              "Duration": 2,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 152,
+              "Duration": 1,
+              "Pitch": 21
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 154,
+              "Duration": 2,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 160,
+              "Duration": 1,
+              "Pitch": 23
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 162,
+              "Duration": 2,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 162,
+              "Duration": 2,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 67,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 69,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 71,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 75,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 77,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 79,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 83,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 85,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 87,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 91,
+              "Duration": 1,
+              "Pitch": 52
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 93,
+              "Duration": 1,
+              "Pitch": 52
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 95,
+              "Duration": 1,
+              "Pitch": 52
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 99,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 101,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 103,
+              "Duration": 1,
+              "Pitch": 61
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 104,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 107,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 109,
+              "Duration": 1,
+              "Pitch": 61
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 111,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 112,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 115,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 117,
+              "Duration": 1,
+              "Pitch": 61
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 119,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 120,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 123,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 125,
+              "Duration": 1,
+              "Pitch": 61
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 127,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 128,
+              "Duration": 1,
+              "Pitch": 61
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 131,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 133,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 135,
+              "Duration": 1,
+              "Pitch": 54
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 144,
+              "Duration": 1,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 152,
+              "Duration": 1,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 160,
+              "Duration": 1,
+              "Pitch": 49
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 146,
+              "Duration": 6,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 154,
+              "Duration": 6,
+              "Pitch": 47
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 167,
+              "Duration": 1,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 167,
+              "Duration": 1,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 167,
+              "Duration": 1,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 168,
+              "Duration": 8,
+              "Pitch": 30
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 168,
+              "Duration": 8,
+              "Pitch": 25
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 168,
+              "Duration": 8,
+              "Pitch": 18
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 168,
+              "Duration": 8,
+              "Pitch": 13
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 162,
+              "Duration": 1,
+              "Pitch": 45
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 163,
+              "Duration": 1,
+              "Pitch": 42
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 164,
+              "Duration": 1,
+              "Pitch": 37
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 165,
+              "Duration": 1,
+              "Pitch": 35
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 167,
+              "Duration": 1,
+              "Pitch": 37
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 139,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 141,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 143,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 147,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 149,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 151,
+              "Duration": 1,
+              "Pitch": 57
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 144,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 136,
+              "Duration": 1,
+              "Pitch": 59
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 152,
+              "Duration": 1,
+              "Pitch": 52
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 155,
+              "Duration": 1,
+              "Pitch": 52
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 157,
+              "Duration": 1,
+              "Pitch": 52
+            },
+            {
+              "$type": "Aude.Framework.Models.Implementations.Note, Aude.Framework",
+              "Start": 159,
+              "Duration": 1,
+              "Pitch": 52
+            }
+          ]
+        },
+        "Instrument": null
+      }
+    ]
+  },
+  "Instruments": {
+    "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.IInstrument, Aude.Framework]], mscorlib",
+    "$values": [
+      {
+        "$type": "Aude.Framework.Models.Implementations.Instrument, Aude.Framework",
+        "Name": null,
+        "Id": "33b8a76a-70b5-4897-bcc6-bc9693c2059c",
+        "Root": {
+          "$type": "Aude.CoreApplication.Interface.ViewModels.Instrument.InstrumentEditorViewModel+RootNode, Aude.Application",
+          "Children": {
+            "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+            "$values": [
+              {
+                "$type": "Aude.CoreNodeLibrary.FadeOut, Aude.CoreNodeLibrary",
+                "Start": 0.0,
+                "Duration": 3.5,
+                "Children": {
+                  "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                  "$values": [
+                    {
+                      "$type": "Aude.CoreNodeLibrary.FadeIn, Aude.CoreNodeLibrary",
+                      "Start": 0.0,
+                      "Duration": 0.5,
+                      "Children": {
+                        "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                        "$values": [
+                          {
+                            "$type": "Aude.CoreNodeLibrary.SquarewaveNode, Aude.CoreNodeLibrary",
+                            "Amplitude": 0.5,
+                            "Harmonic": 0,
+                            "Children": {
+                              "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                              "$values": []
+                            },
+                            "VisualX": 612.0,
+                            "VisualY": 1032.0,
+                            "Parent": null
+                          }
+                        ]
+                      },
+                      "VisualX": 679.0,
+                      "VisualY": 987.0,
+                      "Parent": null
+                    }
+                  ]
+                },
+                "VisualX": 773.0,
+                "VisualY": 943.0,
+                "Parent": null
+              },
+              {
+                "$type": "Aude.CoreNodeLibrary.FadeOut, Aude.CoreNodeLibrary",
+                "Start": 2.0,
+                "Duration": 7.0,
+                "Children": {
+                  "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                  "$values": [
+                    {
+                      "$type": "Aude.CoreNodeLibrary.SinewaveNode, Aude.CoreNodeLibrary",
+                      "Amplitude": 0.25,
+                      "Harmonic": 0,
+                      "Children": {
+                        "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                        "$values": []
+                      },
+                      "VisualX": 1047.0,
+                      "VisualY": 791.0,
+                      "Parent": null
+                    }
+                  ]
+                },
+                "VisualX": 970.0,
+                "VisualY": 852.0,
+                "Parent": null
+              },
+              {
+                "$type": "Aude.CoreNodeLibrary.FadeIn, Aude.CoreNodeLibrary",
+                "Start": 0.0,
+                "Duration": 1.0,
+                "Children": {
+                  "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                  "$values": [
+                    {
+                      "$type": "Aude.CoreNodeLibrary.FadeOut, Aude.CoreNodeLibrary",
+                      "Start": 1.0,
+                      "Duration": 5.0,
+                      "Children": {
+                        "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                        "$values": [
+                          {
+                            "$type": "Aude.CoreNodeLibrary.FadeIn, Aude.CoreNodeLibrary",
+                            "Start": 0.0,
+                            "Duration": 1.0,
+                            "Children": {
+                              "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                              "$values": [
+                                {
+                                  "$type": "Aude.CoreNodeLibrary.SinewaveNode, Aude.CoreNodeLibrary",
+                                  "Amplitude": 0.25,
+                                  "Harmonic": 1,
+                                  "Children": {
+                                    "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                                    "$values": [
+                                      {
+                                        "$type": "Aude.CoreNodeLibrary.SinewaveNode, Aude.CoreNodeLibrary",
+                                        "Amplitude": 0.125,
+                                        "Harmonic": 2,
+                                        "Children": {
+                                          "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                                          "$values": [
+                                            {
+                                              "$type": "Aude.CoreNodeLibrary.SinewaveNode, Aude.CoreNodeLibrary",
+                                              "Amplitude": 0.0625,
+                                              "Harmonic": 3,
+                                              "Children": {
+                                                "$type": "System.Collections.Generic.List`1[[Aude.Framework.Models.Interfaces.INode, Aude.Framework]], mscorlib",
+                                                "$values": []
+                                              },
+                                              "VisualX": 1156.0,
+                                              "VisualY": 1195.0,
+                                              "Parent": null
+                                            }
+                                          ]
+                                        },
+                                        "VisualX": 1129.0,
+                                        "VisualY": 1147.0,
+                                        "Parent": null
+                                      }
+                                    ]
+                                  },
+                                  "VisualX": 1096.0,
+                                  "VisualY": 1102.0,
+                                  "Parent": null
+                                }
+                              ]
+                            },
+                            "VisualX": 1056.0,
+                            "VisualY": 1056.0,
+                            "Parent": null
+                          }
+                        ]
+                      },
+                      "VisualX": 1011.0,
+                      "VisualY": 1010.0,
+                      "Parent": null
+                    }
+                  ]
+                },
+                "VisualX": 958.0,
+                "VisualY": 948.0,
+                "Parent": null
+              }
+            ]
+          },
+          "VisualX": 900.0,
+          "VisualY": 900.0,
+          "Parent": null
+        }
+      }
+    ]
+  },
+  "TimeSignature": {
+    "$type": "Aude.Framework.Models.Implementations.TimeSignature, Aude.Framework",
+    "SampleRate": 44100,
+    "BeatsPerMinute": 260,
+    "Numerator": 8,
+    "Denomenator": 4
+  }
+}
